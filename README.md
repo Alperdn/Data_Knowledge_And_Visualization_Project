@@ -1,4 +1,4 @@
-# Data_Knowledge_And_Visualization_Project
+# Knowledge_Mapping_and_Data_Visualization_Project
 Data knowledge visualization term project, part A and B
 This project was developed by Alper Doğukan Nizamoğlu.
 
