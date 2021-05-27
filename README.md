@@ -1,6 +1,6 @@
 # Knowledge_Mapping_and_Data_Visualization_Project
 Data knowledge visualization term project, part A and B
-This project was developed by Alper Doğukan Nizamoğlu.
+This project is developed by Alper Doğukan Nizamoğlu.
 
 Problem Definition
 
