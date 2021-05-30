@@ -14,7 +14,7 @@ Although people in developed countries have survived this period a little more e
 
 ## *Why This Topic ?*
 
-I chose this title for my project because I think the issue of violence against women is ignored even though it is in front of people, especially in our country, the gravity of this situation is increasing day by day.
+I chose this topic for my project because I think the issue of violence against women is ignored even though it is in front of people every day, especially in our country, the gravity of this situation is increasing day by day.
 
 ## *Description Of Data Set*
 
