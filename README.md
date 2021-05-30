@@ -4,7 +4,7 @@ This project is developed by Alper Doğukan Nizamoğlu.
 
 ## *What is the problem topic ?*
 
-Covid-19 impact on vioelence against women
+Covid-19 impact on violence against women
 
 ## *Problem Definition*
 
