@@ -1,10 +1,10 @@
 # Knowledge Mapping and Data Visualization Project
-Data knowledge visualization term project.
-This project is developed by Alper Doğukan Nizamoğlu.
+### Data knowledge visualization term project.
+### This project is developed by Alper Doğukan Nizamoğlu.
 
 ## *What Is The Project Topic ?*
 
-Covid-19 impact on violence against women
+### Covid-19 impact on violence against women
 
 # *PART A*
 
