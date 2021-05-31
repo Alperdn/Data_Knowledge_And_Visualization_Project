@@ -16,13 +16,15 @@
 
 ## *Why This Topic ?*
 
-### I chose this topic for my project because I think the issue of violence against women is ignored even though it is in front of people every day, especially in our country, the gravity of this situation is increasing day by day.
+### I chose this topic for my project because I think the issue of violence against women is ignored even though it is in front of people every day, especially in our country, the horror of this situation is increasing day by day.
 
 # *PART B*
 
-###
+## *Where Did You Get The Data ?*
 
+### I got this data from the websites that collects data sets and the other person or organizations that interested in this topic like me 
 
+## *What Challenges Did You Face In Preparing The Data ?*
 
 
 
