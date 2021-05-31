@@ -33,9 +33,15 @@
 
 ## *References*
 https://www.kaggle.com/andrewmvd/violence-against-women-and-girls
+
 https://data.oecd.org/inequality/violence-against-women.htm
+
 http://umut.org.tr/umut-vakfi-2020-yili-kadin-cinayetleri-haritasi/
+
 http://kadincinayetlerinidurduracagiz.net/veriler/2947/kadin-cinayetlerini-durduracagiz-platformu-2020-raporu
+
 http://kadincinayetlerinidurduracagiz.net/veriler/2889/kadin-cinayetlerini-durduracagiz-platformu-2019-raporu
+
 http://www.hips.hacettepe.edu.tr/eng/english_main_report.pdf
+
 https://data.oecd.org/unemp/unemployment-rate.htm
