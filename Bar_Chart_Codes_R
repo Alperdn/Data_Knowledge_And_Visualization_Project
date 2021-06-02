@@ -1,0 +1,23 @@
+BAR CHARTS' CODES USING R
+
+This file shows the bar chart codes that I used in presentation
+
+               2020
+------------------------------------- 
+FOR Who Killed Women ? 2020
+
+x <- c("exboyfriend-husband", "relative", "boyfriend", "other", "husband")
+y <- c(10, 18, 18, 22, 32)
+
+barplot(y, names.arg = x, col = "red", main = "Who Killed Women ? 2020")
+
+
+               2019
+-------------------------------------                
+FOR Who Killed Women ? 2019
+
+x <- c("other" ,"exboyfriend-
+husband", "boyfriend", "relative", "husband", "unknown")
+y <- c(4.43, 7, 11, 17, 29, 32)
+
+barplot(y, names.arg = x, col = "dark violet", main = "Who Killed Women ? 2019")
