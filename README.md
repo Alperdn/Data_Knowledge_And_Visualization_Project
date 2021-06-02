@@ -28,6 +28,11 @@
 
 ### In fact, the process of finding data was more difficult than I thought, because I had to visit dozens of sites and read articles to find the data sets and statistics I was looking for. The fact that there are so few data sets on the internet on this subject is just as upsetting. I had a little difficulty finding what I was looking for, not only data on violence against women, but also the way in which violence was used against women, as I was looking for data sets with the level of affiliation of the perpetrators with the women in question and their characteristics.
 
+## *Which Visualization Tools You Used ?*
+
+-https://www.datawrapper.de/
+-R Studio
+-https://www.w3schools.com/
 
 ## *Videos and Sources That Helped Me Learn Visualize with R*
 https://www.w3schools.com/r/default.asp
