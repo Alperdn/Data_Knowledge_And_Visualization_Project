@@ -1,0 +1,77 @@
+PIE CHARTS' CODES USING R
+
+This file shows the pie chart codes that I used in presentation
+
+             2020
+----------------------------------
+FOR Did Women Have a Protection Order ? 2020
+
+x <- c(8,5,88)
+mylabel <- c("Yes (8%)", "No (5%)", "Undetected (88%")
+colors <- c("cyan", "orange", "red")
+pie(x, label = mylabel, main = "Did Women Have a Protection Order ? 2020", col = colors)
+legend("bottomright", mylabel, fill = colors)
+----------------------------------
+FOR Employment Status of Women 2020
+
+x <- c(3,15,82)
+mylabel <- c("Yes (3%)", "No (15%)", "Undetected (82%")
+colors <- c("orange", "violet", "dark green")
+pie(x, label = mylabel, main = "Employment Status of Women 2020", col = colors)
+legend("bottomright", mylabel, fill = colors)
+-----------------------------------
+FOR Relationship Status of Women 2020
+
+x <- c(44,26,30)
+mylabel <- c("Married (44%)", "Single (26%)", "Undetected (30%")
+colors <- c("red", "dark violet", "yellow")
+pie(x, label = mylabel, main = "Relationship Status of Women 2020", col = colors)
+legend("bottomright", mylabel, fill = colors)
+
+
+
+              2019
+------------------------------------
+FOR Did Women Have a Protection Order ? 2019
+
+x <- c(3,22,75)
+mylabel <- c("Yes (3%)", "No (22%)", "Undetected (75%")
+colors <- c("cyan", "orange", "red")
+pie(x, label = mylabel, main = "Did Women Have a Protection Order ? 2019", col = colors)
+legend("bottomright", mylabel, fill = colors)
+------------------------------------
+FOR Employment Status of Women 2019
+
+x <- c(13,4,83)
+mylabel <- c("Yes (13%)", "No (4%)", "Undetected (83%")
+colors <- c("orange", "violet", "dark green")
+pie(x, label = mylabel, main = "Employment Status of Women 2019", col = colors)
+legend("bottomright", mylabel, fill = colors)
+-------------------------------------
+FOR Relationship Status of Women 2019
+
+x <- c(37,27,36)
+mylabel <- c("Married (37%)", "Single (27%)", "Undetected (36%")
+colors <- c("red", "dark violet", "yellow")
+pie(x, label = mylabel, main = "Relationship Status of Women 2019", col = colors)
+legend("bottomright", mylabel, fill = colors)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
