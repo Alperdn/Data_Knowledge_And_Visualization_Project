@@ -2,6 +2,9 @@
 ### Data knowledge visualization term project.
 ### This project is developed by Alper Doğukan Nizamoğlu.
 
+# Project Presentation Video Link
+### https://youtu.be/aH1Dj0dQy2s
+
 # *What Is The Project Topic ?*
 
 ### Covid-19 impact on violence against women
